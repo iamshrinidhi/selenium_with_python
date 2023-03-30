@@ -6,7 +6,7 @@ from selenium import webdriver
 driver=webdriver.Chrome()
 
 
-driver.get("Https://www.ecoders.in")
+driver.get("https://www.ecoders.in")
 
 time.sleep(5)
 
